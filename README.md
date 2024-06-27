@@ -55,3 +55,35 @@ This script moves the robot in a square path, simulating a drawing or welding op
    ```bash
    git clone https://github.com/yourusername/robotics-projects.git
    cd robotics-projects
+
+### Set up URSim:
+
+1. **Download and install URSim from the Universal Robots website.**
+2. **Follow the installation instructions specific to your operating system.**
+
+### Running the Scripts
+
+1. **Open URSim:**
+   - Launch the Universal Robots Simulator (URSim) on your machine.
+
+2. **Load a script:**
+   - In the URSim interface, go to the **Program** tab.
+   - Click on `File` -> `Open` or `Load Program`.
+   - Navigate to the directory where you cloned this repository and select the desired `.script` file.
+
+3. **Run the script:**
+   - Make sure the Script Code node is selected in the program tree.
+   - Click the **Play** button to execute the script.
+
+### Contributing
+
+If you have any suggestions or improvements, feel free to submit a pull request or open an issue. Contributions are welcome!
+
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+### Contact
+
+For any questions or inquiries, please contact me at youssefbadreldin02@gmail.com.
+
