@@ -77,7 +77,7 @@ This script moves the robot in a square path, simulating a drawing or welding op
 
 ### Contributing
 
-If you have any suggestions or improvements, feel free to submit a pull request or open an issue. Contributions are welcome!
+If you have any suggestions or improvements, feel free to submit a pull request or open an issue. 
 
 ### License
 
